@@ -1,0 +1,13 @@
+integrationtests\controller\json\AlphControllerJsonTest.class
+testecontainers\swagger\SwaggerIntegrationTest.class
+br\com\certacon\restful_api_java\services\MockBook.class
+configs\TestConfigs.class
+integrationtests\PersonVO.class
+br\com\certacon\restful_api_java\services\MockPerson.class
+br\com\certacon\restful_api_java\services\BookServicesTest.class
+integrationtests\controller\json\PersonControllerJsonTest.class
+integrationtests\testPasswordEncoder.class
+testecontainers\AbstractIntegrationTest.class
+testecontainers\AbstractIntegrationTest$Initializer.class
+br\com\certacon\restful_api_java\services\PersonServicesTest.class
+integrationtests\controller\json\PersonControllerJsonTest$1.class
